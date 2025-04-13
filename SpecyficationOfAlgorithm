@@ -1,0 +1,16 @@
+Specyfikacja_Algorytmu tick-tack-toe
+
+Dane Wejsciowe:
+sygnły od dwóch graczy - { UpArrow, DownArrow, LeftArrow , RightArrow , OK }
+
+Warunki Poczatkowe:
+UpArrow, DownArrow, LeftArrow , RightArrow to sygnału które pozwalaja sie poruszac po 9 polach planszy . OK jest sygnalem pozwalajcym zatwierdzic wybór pola dla kółka lub krzyżyka.
+Po wprowadzeniu ruchu przez jednego gracza i zatwierdzeniu nastepuje ruch drugiego gracza.
+
+Dane Wyjsciowe:
+komunikat obrazujacy zmiane planszy po dokonanym wyborze umiejscowienia kształtu jednego z graczy po krórym nastepuje przekazanie mozliwosci wprowadzenia ruchu przez drugiego gracza. 
+
+Warunki Koncowe:
+4 tóry rozgrywki ze zmiennym wporwadzaniem ruchu na plansze pierwszy gracz ma mozliwosc wprowadzenia odatenigo ruchu. Pzewidywana przedwczesna mozliwosc restartu gry.
+
+
